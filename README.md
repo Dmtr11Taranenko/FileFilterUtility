@@ -17,7 +17,7 @@
 2. Клонируйте репозиторий:
 
    ```bash 
-   git clone "repoLink"
+   git clone https://github.com/Dmtr11Taranenko/FileFilterUtility.git
    ```
 
 3. Соберите проект: 
